@@ -1,4 +1,4 @@
 @react.component
 let make = () => {
-  <Welcome title="Hello, World" />
+  <Welcome title="Hello, ReScript" />
 }
