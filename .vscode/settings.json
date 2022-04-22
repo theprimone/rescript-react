@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "src/**/*.mjs": true,
+    "lib": false,
+    "node_modules": false
+  }
+}
